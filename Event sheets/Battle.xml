@@ -2467,7 +2467,7 @@
                                         </condition>
                                     </conditions>
                                     <actions>
-                                        <action id="-10" name="Add to" sid="1900272840803563" type="System">
+                                        <action id="-10" name="Add to" sid="9900272840803563" type="System">
                                             <param id="0" name="Variable">HP</param>
                                             <param id="1" name="Value">ItemDB.At(ItemID, 1)</param>
                                         </action>
